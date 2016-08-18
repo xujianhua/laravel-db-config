@@ -9,7 +9,7 @@
 namespace Jani\DbConfig\Services;
 
 use Cache;
-use HavenShen\YunpianSMS\Services\Model\Config;
+use Jani\DbConfig\Services\Model\Config;
 
 class DbConfigService
 {

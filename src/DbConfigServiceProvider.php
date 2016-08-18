@@ -2,8 +2,8 @@
 
 namespace Jani\DbConfig;
 
-use Jani\DbConfig\Services\YunpianSMSService;
-use Illuminate\Support\DbConfigService;
+use Jani\DbConfig\Services\DbConfigService;
+use Illuminate\Support\ServiceProvider;
 
 class DbConfigServiceProvider extends ServiceProvider
 {
