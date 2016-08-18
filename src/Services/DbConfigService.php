@@ -1,9 +1,7 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: HavenShen
- * Date: 15/12/22
- * Time: 下午3:25
+ * User: Jani Xu
  */
 
 namespace Jani\DbConfig\Services;
