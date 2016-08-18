@@ -1,0 +1,24 @@
+{
+    "name": "jani/laravel-db-config",
+    "description": "laravel 读写数据库Conifg,基于Laravel5.1插件。",
+    "type": "package",
+    "keywords": ["laravel", "config"],
+    "homepage": "https://github.com/xujianhua/laravel-db-config",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jani Xu",
+            "email": "xujianhua@outlook.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Jani\\DbConfig\\": "src/"
+        }
+    },
+    "require": {
+        "php"                 : ">=5.5.9",
+        "illuminate/database" : "~5.1",
+        "illuminate/support"  : "~5.1"
+    }
+}
