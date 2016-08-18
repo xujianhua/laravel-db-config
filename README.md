@@ -1,9 +1,5 @@
 # laravel-db-config
 
-[![Latest Stable Version](https://img.shields.io/packagist/v/HavenShen/yunpian-sms.svg?style=flat-square)](https://packagist.org/packages/HavenShen/yunpian-sms)
-[![Total Downloads](https://img.shields.io/packagist/dt/HavenShen/yunpian-sms.svg?style=flat-square)](https://packagist.org/packages/HavenShen/yunpian-sms)
-[![License](https://img.shields.io/packagist/l/HavenShen/yunpian-sms.svg?style=flat-square)](https://packagist.org/packages/HavenShen/yunpian-sms)
-
 > 基于laravel5.1.*以上版本的系统数据库读写配置文件。
 
 ## 安装
