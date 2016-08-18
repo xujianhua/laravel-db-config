@@ -1,6 +1,6 @@
 {
     "name": "jani/laravel-db-config",
-    "description": "laravel 读写数据库Conifg,基于Laravel5.1插件。",
+    "description": "laravel 读写数据库Config,基于Laravel5.1插件。",
     "type": "package",
     "keywords": ["laravel", "config"],
     "homepage": "https://github.com/xujianhua/laravel-db-config",
